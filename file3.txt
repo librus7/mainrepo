@@ -2,3 +2,4 @@ file3.txt
 of mainrepo
 new line in file3.txt
 extra line in file3.txt
+this is an extra line in file3.txt from mainrepo
