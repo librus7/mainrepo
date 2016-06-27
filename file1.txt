@@ -1,4 +1,3 @@
 file1.txt
-of mainrepo
 of repo1
-repo1 merged file from mainrepo
+new line in repo1
